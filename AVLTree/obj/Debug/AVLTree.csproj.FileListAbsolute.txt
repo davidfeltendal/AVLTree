@@ -1,0 +1,9 @@
+C:\Users\David\Desktop\EksamensForberedelse\AVLTree\AVLTree\bin\Debug\AVLTree.exe.config
+C:\Users\David\Desktop\EksamensForberedelse\AVLTree\AVLTree\bin\Debug\AVLTree.exe
+C:\Users\David\Desktop\EksamensForberedelse\AVLTree\AVLTree\bin\Debug\AVLTree.pdb
+C:\Users\David\Desktop\EksamensForberedelse\AVLTree\AVLTree\obj\Debug\AVLTree.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\EksamensForberedelse\AVLTree\AVLTree\obj\Debug\AVLTree.exe
+C:\Users\David\Desktop\EksamensForberedelse\AVLTree\AVLTree\obj\Debug\AVLTree.pdb
+C:\Users\David\Desktop\Skrivebord Prog\OldLaptop\EksamensForberedelse\Avl\AVLTree\AVLTree\bin\Debug\AVLTree.exe.config
+C:\Users\David\Desktop\Skrivebord Prog\OldLaptop\EksamensForberedelse\Avl\AVLTree\AVLTree\obj\Debug\AVLTree.exe
+C:\Users\David\Desktop\Skrivebord Prog\OldLaptop\EksamensForberedelse\Avl\AVLTree\AVLTree\obj\Debug\AVLTree.pdb
